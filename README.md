@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🚀 Chào mừng đến với GitHub của Binh!
 
-<!--
-**binhdz412-sketch/binhdz412-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sinh viên năm 2 ngành Công nghệ Thông tin, đang theo đuổi định hướng Full-stack Developer (MERN Stack).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Mục tiêu: Trở thành Full-stack Developer
+
+| Kỹ năng | Trọng tâm hiện tại | Dự án |
+| :--- | :--- | :--- |
+| **Front-end** | HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+) | Trang Portfolio Responsive Design |
+| **Back-end** | Node.js, Express.js | RESTful API đầu tiên |
+| **Database** | MongoDB (Mongoose) | Ứng dụng CRUD cơ bản |
+| **Công cụ** | Git/GitHub, VS Code | Quản lý phiên bản cho mọi bài tập ở trường |
+
+---
+
+## ✍️ Lịch sử hoạt động
+
+(Sau này, phần này sẽ tự động cập nhật, nhưng bạn có thể dùng để tóm tắt các dự án nổi bật nhất của mình).
+
+* **Tháng 11/2025:** Khởi động lộ trình Full-stack MERN.
+* **[Sắp tới]** Dự án: [Tên Dự án Front-end đầu tiên]
+
+---
+
+## 📧 Kết nối
+
+[LinkedIn] | [Facebook/Email] | [Tên Trường/Lớp]
